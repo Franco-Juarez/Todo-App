@@ -1,0 +1,122 @@
+[
+  {
+    "id": "a1b2c3d4e5f67890abcd1234567890ef",
+    "title": "Estudiar para el examen de historia",
+    "description": "Revisar la revolución industrial y sus consecuencias",
+    "dueDate": "2025-12-30",
+    "priority": "Media",
+    "completed": false,
+    "tags": [
+      "examen",
+      "historia"
+    ]
+  },
+  {
+    "id": "f9e8d7c6b5a43210abcdef1234567890",
+    "title": "Preparar presentación de ciencias",
+    "description": "Crear diapositivas sobre el ciclo del agua",
+    "dueDate": "2025-12-28",
+    "priority": "Alta",
+    "completed": false,
+    "tags": [
+      "presentación",
+      "ciencias"
+    ]
+  },
+  {
+    "id": "1234567890abcdef1234567890abcdef",
+    "title": "Leer libro de literatura",
+    "description": "Capítulos 3 y 4 de 'Cien años de soledad'",
+    "dueDate": "2025-12-29",
+    "priority": "Baja",
+    "completed": false,
+    "tags": [
+      "lectura",
+      "literatura"
+    ]
+  },
+  {
+    "id": "abcdef1234567890abcdef1234567890",
+    "title": "Realizar ejercicios de programación",
+    "description": "Resolver problemas en JavaScript",
+    "dueDate": "2025-12-26",
+    "priority": "Alta",
+    "completed": false,
+    "tags": [
+      "programación",
+      "ejercicios"
+    ]
+  },
+  {
+    "id": "7890abcdef1234567890abcdef123456",
+    "title": "Organizar apuntes de química",
+    "description": "Ordenar y repasar apuntes de química orgánica",
+    "dueDate": "2025-12-31",
+    "priority": "Media",
+    "completed": false,
+    "tags": [
+      "organización",
+      "química"
+    ]
+  },
+  {
+    "id": "fedcba0987654321fedcba0987654321",
+    "title": "Revisar código del proyecto",
+    "description": "Optimizar funciones y limpiar código",
+    "dueDate": "2025-12-20",
+    "priority": "Alta",
+    "completed": true,
+    "tags": [
+      "proyecto",
+      "código"
+    ]
+  },
+  {
+    "id": "0123456789abcdef0123456789abcdef",
+    "title": "Hacer limpieza del escritorio",
+    "description": "Eliminar archivos innecesarios y organizar carpetas",
+    "dueDate": "2025-12-15",
+    "priority": "Baja",
+    "completed": true,
+    "tags": [
+      "organización",
+      "limpieza"
+    ]
+  },
+  {
+    "id": "cdef0123456789abcdef0123456789ab",
+    "title": "Actualizar el currículum",
+    "description": "Añadir experiencia laboral reciente",
+    "dueDate": "2025-12-18",
+    "priority": "Media",
+    "completed": true,
+    "tags": [
+      "currículum",
+      "trabajo"
+    ]
+  },
+  {
+    "id": "abcdef9876543210abcdef9876543210",
+    "title": "Enviar correo a profesor",
+    "description": "Solicitar retroalimentación sobre el proyecto final",
+    "dueDate": "2025-12-22",
+    "priority": "Alta",
+    "completed": true,
+    "tags": [
+      "correo",
+      "proyecto"
+    ]
+  },
+  {
+    "id": "3210fedcba9876543210fedcba987654",
+    "title": "Asistir a la reunión del club de lectura",
+    "description": "Debatir sobre el libro '1984' de George Orwell",
+    "dueDate": "2025-12-25",
+    "priority": "Media",
+    "completed": true,
+    "tags": [
+      "lectura",
+      "club"
+    ]
+  }
+]

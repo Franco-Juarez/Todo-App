@@ -1,0 +1,31 @@
+### GET ALL
+http://localhost:3000/api/tasks
+
+### GET BY ID
+http://localhost:3000/api/tasks/5db1c59e26e32ef9ddcdf89f0211a45c
+
+### POST
+POST http://localhost:3000/api/tasks/
+Content-Type: application/json
+
+{
+  "title": "Comprar frutas",
+  "description": "Manzanas, peras y frutillas",
+  "dueDate": "2025-03-17",
+  "priority": "Baja",
+  "tags": [
+    "verdes",
+    "rojas"
+  ]
+}
+
+### PUT
+PUT http://localhost:3000/api/tasks/5942767c13b6f8774fada7c71c06d625
+Content-Type: application/json
+
+{
+  "completed": true
+}
+
+### DELETE
+DELETE http://localhost:3000/api/tasks/5942767c13b6f8774fada7c71c06d625
