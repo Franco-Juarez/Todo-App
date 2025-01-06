@@ -70,7 +70,7 @@ La aplicación estará disponible en tu navegador localmente.
 
 Para una demostración visual de la aplicación en funcionamiento, consulta el siguiente enlace o gif:
 
-![Demostración de la aplicación](assets/demo.mp4)
+![Demostración de la aplicación](assets/demo.gif)
 
 ## Posibles mejoras
 
