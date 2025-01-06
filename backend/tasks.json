@@ -52,7 +52,7 @@
     "title": "Organizar apuntes de química",
     "description": "Ordenar y repasar apuntes de química orgánica",
     "dueDate": "2025-12-31",
-    "priority": "Media",
+    "priority": "Medium",
     "completed": false,
     "tags": [
       "organización",
